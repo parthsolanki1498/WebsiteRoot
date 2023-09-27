@@ -1,285 +1,368 @@
-https://www.qemu.org/docs/master/about/deprecated.html#backing-since-2-12
-https://www.qemu.org/docs/master/specs/ppc-spapr-numa.html#pseries-numa-mechanics
-https://www.qemu.org/docs/master/about/deprecated.html#plugin-argument-passing-through-arg-string-since-6-1
-https://www.qemu.org/docs/master/about/emulation.html
-https://www.qemu.org/docs/master/devel/index.html
-https://www.qemu.org/docs/master/specs/tpm.html
-https://www.qemu.org/2023/02/23/gsoc-outreachy-2023/
-https://www.qemu.org/blog/2019/05/
-https://www.qemu.org/2021/08/22/fuse-blkexport/
-https://www.qemu.org/docs/master/specs/pci-testdev.html
-https://www.qemu.org/docs/master/devel/index-internals.html
-https://www.qemu.org/conservancy/
-https://www.qemu.org/2020/08/11/qemu-5-1-0/
-https://www.qemu.org/docs/master/about/deprecated.html#deprecated-features
-https://www.qemu.org/blog/2017/09/
-https://www.qemu.org/2020/07/03/anatomy-of-a-boot/
-https://www.qemu.org/blog/2018/02/
-https://www.qemu.org/docs/master/devel/index-api.html
-https://www.qemu.org/blog/category/conferences/index.html
-https://www.qemu.org/docs/master/about/deprecated.html#device-nvme-ns-eui64-default-on-off-since-7-1
-https://www.qemu.org/docs/master/system/virtio-net-failover.html
-https://www.qemu.org/blog/2019/01/
-https://www.qemu.org/contribute/submit-a-patch
-https://www.qemu.org/blog/2020/08/
-https://www.qemu.org/docs/master/specs/acpi_hw_reduced_hotplug.html
-https://www.qemu.org/license.html
-https://www.qemu.org/2023/03/08/kvm-forum-cfp/
-https://www.qemu.org/2022/02/15/outreach-2022/
-https://www.qemu.org/blog/2017/03/
-https://www.qemu.org/blog/2021/01/
-https://www.qemu.org/blog/2018/01/
-https://www.qemu.org/docs/master/about/deprecated.html#system-emulator-command-line-arguments
-https://www.qemu.org/blog/2018/06/
-https://www.qemu.org/docs/master/about/deprecated.html#chroot-since-8-1
-https://www.qemu.org/docs/master/about/deprecated.html#singlestep-since-8-1
-https://www.qemu.org/docs/master/user/index.html
-https://www.qemu.org/docs/master/system/managed-startup.html
-https://www.qemu.org/docs/master/devel/index-tcg.html
-https://www.qemu.org/2018/02/14/qemu-2-11-1-and-spectre-update/
-https://www.qemu.org/blog/category/presentations/index.html
-https://www.qemu.org/blog/2021/08/
-https://www.qemu.org/blog/2019/04/
-https://www.qemu.org/2017/02/04/the-new-qemu-website-is-up/
-https://www.qemu.org/2017/02/10/fosdem-presentations/
-https://www.qemu.org/docs/master/interop/virtio-balloon-stats.html
-https://www.qemu.org/docs/master/system/invocation.html
-https://www.qemu.org/docs/master/specs/ppc-spapr-numa.html#legacy-5-1-and-older-pseries-numa-mechanics
-https://www.qemu.org/blog/category/qemu-8-1/index.html
-https://www.qemu.org/download#source
-https://www.qemu.org/blog/2018/08/
-https://www.qemu.org/license-cc-by-3.0
-https://www.qemu.org/docs/master/about/deprecated.html#device-nvme-use-intel-id-on-off-since-7-1
-https://www.qemu.org/docs/master/about/deprecated.html#qemu-guest-agent
-https://www.qemu.org/2018/05/31/nic-parameter/
-https://www.qemu.org/docs/master/tools/virtfs-proxy-helper.html
-https://www.qemu.org/docs/master/about/deprecated.html#device-options
-https://www.qemu.org/docs/master/system/vm-templating.html
-https://www.qemu.org/docs/master/interop/vhost-vdpa.html
-https://www.qemu.org/contribute/security-process
-https://www.qemu.org/download#linux
-https://www.qemu.org/docs/master/specs/sev-guest-firmware.html
-https://www.qemu.org/docs/master/system/guest-loader.html
-https://www.qemu.org/2017/10/04/qemu-2-10-1/
-https://www.qemu.org/docs/master/interop/qemu-storage-daemon-qmp-ref.html
-https://www.qemu.org/docs/master/interop/dbus.html
-https://www.qemu.org/docs/master/about/deprecated.html#incorrectly-typed-device-add-arguments-since-6-2
-https://www.qemu.org/docs/master/system/authz.html
-https://www.qemu.org/docs/master/about/deprecated.html#block-set-io-throttle-argument-device-since-2-8
-https://www.qemu.org/docs/master/
-https://www.qemu.org/blog/2017/02/
-https://www.qemu.org/2018/04/25/qemu-2-12-0/
-https://www.qemu.org/docs/master/system/images.html
-https://www.qemu.org/sponsors/
-https://www.qemu.org/blog/2023/04/
-https://www.qemu.org/2017/03/19/qemu-in-the-blogs-february-2017/
-https://www.qemu.org/2023/04/20/qemu-8-0-0/
-https://www.qemu.org/license-gpl-2
-https://www.qemu.org/2018/12/12/qemu-3-1-0/
-https://www.qemu.org/2023/08/22/qemu-8-1-0/
-https://www.qemu.org/docs/master/about/deprecated.html#block-commit-arguments-base-and-top-since-3-1
-https://www.qemu.org/docs/master/system/secrets.html
-https://www.qemu.org/docs/master/about/deprecated.html#query-qmp-schema-return-value-member-values-since-6-2
-https://www.qemu.org/blog/category/python/index.html
-https://www.qemu.org/docs/master/about/license.html
-https://www.qemu.org/2017/05/16/devconf-presentations/
-https://www.qemu.org/blog/category/web-site/index.html
-https://www.qemu.org/blog/2022/12/
-https://www.qemu.org/download#macos
-https://www.qemu.org/docs/master/tools/index.html
-https://www.qemu.org/docs/master/tools/qemu-pr-helper.html
-https://www.qemu.org/2022/11/17/zoned-emulation/
-https://www.qemu.org/2020/02/06/outreachy-internships-2020/
-https://www.qemu.org/security-process/
-https://www.qemu.org/docs/master/about/index.html
-https://www.qemu.org/blog/2020/11/
-https://www.qemu.org/docs/master/interop/qemu-ga-ref.html
-https://www.qemu.org/docs/master/specs/ppc-spapr-xive.html
-https://www.qemu.org/docs/master/about/deprecated.html#rbd-keyvalue-pair-encoded-filenames-since-3-1
-https://www.qemu.org/2021/04/30/qemu-6-0-0/
-https://www.qemu.org/docs/master/specs/index.html
-https://www.qemu.org/docs/master/interop/barrier.html
-https://www.qemu.org/2021/02/17/gsoc-and-outreachy-2021/
-https://www.qemu.org/docs/master/system/cpu-hotplug.html
-https://www.qemu.org/docs/master/tools/qemu-trace-stap.html
-https://www.qemu.org/docs/master/about/deprecated.html#system-emulation-on-32-bit-x86-hosts-since-8-0
-https://www.qemu.org/docs/master/about/deprecated.html#runnability-guarantee-of-cpu-models-since-4-1
-https://www.qemu.org/docs/master/about/deprecated.html#iscsi-password-xxx-since-8-0
-https://www.qemu.org/docs/master/specs/pci-ids.html
-https://www.qemu.org/2021/08/24/qemu-6-1-0/
-https://www.qemu.org/blog/2022/08/
-https://www.qemu.org/docs/master/about/deprecated.html#skipped-migrationstats-field-since-8-1
-https://www.qemu.org/blog/2017/11/
-https://www.qemu.org/docs/master/specs/acpi_nvdimm.html
-https://www.qemu.org/contribute/report-a-bug/
-https://www.qemu.org/blog/2022/04/
-https://www.qemu.org/docs/master/about/deprecated.html
-https://www.qemu.org/2017/11/22/haxm-usage-windows/
-https://www.qemu.org/2019/05/22/microbit/
-https://www.qemu.org/docs/master/about/deprecated.html#delay-option-for-socket-character-devices-since-6-0
-https://www.qemu.org/2018/02/09/understanding-qemu-devices/
-https://www.qemu.org/docs/master/about/deprecated.html#user-mode-emulator-command-line-arguments
-https://www.qemu.org/docs/master/about/deprecated.html#qemu-machine-protocol-qmp-events
-https://www.qemu.org/docs/master/about/deprecated.html#id2
-https://www.qemu.org/docs/master/specs/ppc-spapr-numa.html#how-the-pseries-linux-guest-calculates-numa-distances
-https://www.qemu.org/download/#source
-https://www.qemu.org/docs/master/system/tls.html
-https://www.qemu.org/2018/02/06/devconf-fosdem/
-https://www.qemu.org/
-https://www.qemu.org/blog/2020/07/
-https://www.qemu.org/blog/2020/09/
-https://www.qemu.org/blog/category/developers/index.html
-https://www.qemu.org/2021/08/19/tcg-cache-modelling-plugin/
-https://www.qemu.org/2021/01/19/virtio-blk-scsi-configuration/
-https://www.qemu.org/docs/master/about/deprecated.html#vcpu-trace-events-since-8-1
-https://www.qemu.org/docs/master/interop/dbus-display.html
-https://www.qemu.org/docs/master/specs/ppc-xive.html
-https://www.qemu.org/docs/master/interop/dbus-vmstate.html
-https://www.qemu.org/2020/04/29/qemu-5-0-0/
-https://www.qemu.org/docs/master/about/deprecated.html#qemu-machine-protocol-qmp-commands
-https://www.qemu.org/docs/master/about/deprecated.html#mem-unplug-error-since-6-2
-https://www.qemu.org/docs/master/devel/index-process.html
-https://www.qemu.org/2022/03/07/gsoc-2022/
-https://www.qemu.org/2018/08/15/qemu-3-0-0/
-https://www.qemu.org/docs/master/interop/bitmaps.html
-https://www.qemu.org/docs/master/about/deprecated.html#device-virtio-blk-scsi-on-off-since-5-0
-https://www.qemu.org/docs/master/about/build-platforms.html
-https://www.qemu.org/docs/master/about/deprecated.html#blockdev-open-tray-blockdev-close-tray-argument-device-since-2-8
-https://www.qemu.org/docs/master/#welcome-to-qemu-s-documentation
-https://www.qemu.org/blog/2023/02/
-https://www.qemu.org/docs/master/system/pr-manager.html
-https://www.qemu.org/docs/master/system/gdb.html
-https://www.qemu.org/docs/master/interop/vhost-user.html
-https://www.qemu.org/docs/master/interop/vnc-ledstate-pseudo-encoding.html
-https://www.qemu.org/docs/master/about/deprecated.html#block-device-options
-https://www.qemu.org/blog/2020/02/
-https://www.qemu.org/2017/09/01/qemu-2-10-0/
-https://www.qemu.org/docs/master/system/device-emulation.html
-https://www.qemu.org/blog/2022/02/
-https://www.qemu.org/docs/master/system/barrier.html
-https://www.qemu.org/docs/master/system/gdb.html#relocating-code
-https://www.qemu.org/2020/11/04/osv-virtio-fs/
-https://www.qemu.org/support
-https://www.qemu.org/docs/master/about/deprecated.html#emulated-device-options
-https://www.qemu.org/docs/master/about/deprecated.html#fsdev-proxy-and-virtfs-proxy-since-8-1
-https://www.qemu.org/docs/master/devel/index-build.html
-https://www.qemu.org/blog/2020/12/
-https://www.qemu.org/docs/master/about/deprecated.html#nbd-server-add-and-nbd-server-remove-since-5-2
-https://www.qemu.org/docs/master/interop/live-block-operations.html
-https://www.qemu.org/blog/2021/04/
-https://www.qemu.org/docs/master/specs/ppc-spapr-numa.html
-https://www.qemu.org/docs/master/about/deprecated.html#build-options
-https://www.qemu.org/docs/master/specs/acpi_mem_hotplug.html
-https://www.qemu.org/docs/master/system/linuxboot.html
-https://www.qemu.org/docs/master/about/deprecated.html#short-form-boolean-options-since-6-0
-https://www.qemu.org/blog/category/contributing/index.html
-https://www.qemu.org/docs/master/specs/pci-serial.html
-https://www.qemu.org/2020/02/26/google-summer-of-code-internships-2020/
-https://www.qemu.org/docs/master/about/deprecated.html#migration
-https://www.qemu.org/docs/master/system/index.html
-https://www.qemu.org/docs/master/about/deprecated.html#no-hpet-since-8-0
-https://www.qemu.org/docs/master/system/vnc-security.html
-https://www.qemu.org/docs/master/about/deprecated.html#pc-i440fx-1-4-up-to-pc-i440fx-1-7-since-7-0
-https://www.qemu.org/docs/master/about/deprecated.html#human-monitor-protocol-hmp-commands
-https://www.qemu.org/2019/12/13/qemu-4-2-0/
-https://www.qemu.org/docs/master/about/deprecated.html#qemu-audio-environment-variables-and-audio-help-since-4-0
-https://www.qemu.org/blog/2019/02/
-https://www.qemu.org/docs/master/index.html
-https://www.qemu.org/docs/master/about/deprecated.html#system-emulator-machines
-https://www.qemu.org/docs/master/system/replay.html
-https://www.qemu.org/docs/master/about/deprecated.html#be-mips-since-7-2
-https://www.qemu.org/docs/master/interop/qmp-spec.html
-https://www.qemu.org/2023/03/24/python/
-https://www.qemu.org/download#windows
-https://www.qemu.org/docs/master/about/deprecated.html#blacklist-command-line-option-since-7-2
-https://www.qemu.org/blog/2021/12/
-https://www.qemu.org/docs/master/interop/pr-helper.html
-https://www.qemu.org/2022/12/14/qemu-7-2-0/
-https://www.qemu.org/download
-https://www.qemu.org/docs/master/about/deprecated.html#eject-argument-device-since-2-8
-https://www.qemu.org/2019/04/24/qemu-4-0-0/
-https://www.qemu.org/docs/master/about/deprecated.html#blockdev-add-empty-string-argument-backing-since-2-10
-https://www.qemu.org/2019/02/26/new-internships-2019/
-https://www.qemu.org/docs/master/about/deprecated.html#gprof-builds-since-8-0
-https://www.qemu.org/blog/2021/02/
-https://www.qemu.org/docs/master/about/deprecated.html#creating-sound-card-devices-and-vnc-without-audiodev-property-since-4-2
-https://www.qemu.org/docs/master/specs/acpi_erst.html
-https://www.qemu.org/docs/master/interop/qemu-qmp-ref.html
-https://www.qemu.org/blog/2018/05/
-https://www.qemu.org/blog/2021/03/
-https://www.qemu.org/blog/2019/12/
-https://www.qemu.org/2017/08/10/deprecation/
-https://www.qemu.org/blog/2017/05/
-https://www.qemu.org/docs/master/specs/acpi_hest_ghes.html
-https://www.qemu.org/docs/master/system/introduction.html
-https://www.qemu.org/docs/master/system/multi-process.html
-https://www.qemu.org/docs/master/interop/qemu-ga.html
-https://www.qemu.org/blog/2020/04/
-https://www.qemu.org/2020/12/08/qemu-5-2-0/
-https://www.qemu.org/docs/master/about/deprecated.html#blacklist-config-file-option-since-7-2
-https://www.qemu.org/blog/2022/11/
-https://www.qemu.org/download/#linux
-https://www.qemu.org/docs/master/system/security.html
-https://www.qemu.org/docs/master/interop/index.html
-https://www.qemu.org/blog
-https://www.qemu.org/docs/master/about/deprecated.html#backend-options
-https://www.qemu.org/contribute
-https://www.qemu.org/docs/master/tools/qemu-storage-daemon.html
-https://www.qemu.org/docs/master/specs/acpi_cpu_hotplug.html
-https://www.qemu.org/download/#windows
-https://www.qemu.org/2021/12/14/qemu-6-2-0/
-https://www.qemu.org/2019/01/23/internships-wrapup/
-https://www.qemu.org/download/#macos
-https://www.qemu.org/documentation
-https://www.qemu.org/docs/master/about/deprecated.html#backwards-compatibility
-https://www.qemu.org/docs/master/about/deprecated.html#async-teardown-since-8-1
-https://www.qemu.org/docs/master/about/removed-features.html
-https://www.qemu.org/2018/01/04/spectre/
-https://www.qemu.org/2022/04/19/qemu-7-0-0/
-https://www.qemu.org/docs/master/tools/qemu-nbd.html
-https://www.qemu.org/blog/category/build/index.html
-https://www.qemu.org/docs/master/user/main.html
-https://www.qemu.org/docs/master/specs/fw_cfg.html
-https://www.qemu.org/docs/master/about/deprecated.html#device-cxl-type3-memdev-xxxx-since-8-0
-https://www.qemu.org/docs/master/system/bootindex.html
-https://www.qemu.org/submit-a-patch/
-https://www.qemu.org/2020/09/14/qemu-storage-overview/
-https://www.qemu.org/docs/master/interop/vhost-user-gpu.html
-https://www.qemu.org/blog/category/releases/index.html
-https://www.qemu.org/2019/08/16/qemu-4-1-0/
-https://www.qemu.org/2019/11/21/kvm-forum/
-https://www.qemu.org/2019/11/07/device-fuzzing/
-https://www.qemu.org/docs/master/about/deprecated.html#host-architectures
-https://www.qemu.org/docs/master/system/keys.html
-https://www.qemu.org/docs/master/about/deprecated.html#smp-parameter-0-smp-configurations-since-6-2
-https://www.qemu.org/2022/08/30/qemu-7-1-0/
-https://www.qemu.org/blog/2022/03/
-https://www.qemu.org/docs/master/about/deprecated.html#no-acpi-since-8-0
-https://www.qemu.org/docs/master/about/deprecated.html#arm-virt-machine-dtb-kaslr-seed-property-since-7-1
-https://www.qemu.org/license-cc-by-sa-4.0
-https://www.qemu.org/docs/master/specs/acpi_pci_hotplug.html
-https://www.qemu.org/docs/master/about/deprecated.html#blockdev-change-medium-argument-device-since-2-8
-https://www.qemu.org/docs/master/about/deprecated.html#drive-backup-since-6-2
-https://www.qemu.org/docs/master/about/deprecated.html#statusinfo-member-singlestep-since-8-1
-https://www.qemu.org/docs/master/about/deprecated.html#using-non-persistent-backing-file-with-pmem-on-since-6-1
-https://www.qemu.org/docs/master/system/targets.html
-https://www.qemu.org/docs/master/tools/qemu-img.html
-https://www.qemu.org/blog/2023/08/
-https://www.qemu.org/blog/category/qemu-8-0/index.html
-https://www.qemu.org/docs/master/system/monitor.html
-https://www.qemu.org/docs/master/system/generic-loader.html
-https://www.qemu.org/docs/master/system/mux-chardev.html
-https://www.qemu.org/blog/2018/12/
-https://www.qemu.org/2021/03/10/gsoc-and-outreachy-2021-timelines/
-https://www.qemu.org/2018/06/21/tcg-testing/
-https://www.qemu.org/blog/2023/03/
-https://www.qemu.org/report-a-bug/
-https://www.qemu.org/blog/2017/10/
-https://www.qemu.org/docs/master/system/confidential-guest-support.html
-https://www.qemu.org/2020/11/26/qemu-advent-announce/
-https://www.qemu.org/docs/master/about/deprecated.html#id3
-https://www.qemu.org/2019/11/15/micro-optimizing-kvm-vmexits/
-https://www.qemu.org/blog/2019/08/
-https://www.qemu.org/blog/2017/08/
-https://www.qemu.org/blog/2018/04/
-https://www.qemu.org/blog/2019/11/
+Index Page - 0 - https://www.qemu.org/
+Index Page - 0 - https://www.qemu.org/download
+Index Page - 0 - https://www.qemu.org/support
+Index Page - 0 - https://www.qemu.org/contribute
+Index Page - 0 - https://www.qemu.org/documentation
+Index Page - 0 - https://www.qemu.org/blog
+Index Page - 0 - https://www.qemu.org/conservancy/
+Index Page - 0 - https://www.qemu.org/sponsors/
+Index Page - 0 - https://www.qemu.org/license.html
+Index Page - 1 - https://www.qemu.org/
+Index Page - 1 - https://www.qemu.org/download
+Index Page - 1 - https://www.qemu.org/support
+Index Page - 1 - https://www.qemu.org/contribute
+Index Page - 1 - https://www.qemu.org/documentation
+Index Page - 1 - https://www.qemu.org/blog
+Index Page - 1 - https://www.qemu.org/conservancy/
+Index Page - 1 - https://www.qemu.org/sponsors/
+Index Page - 1 - https://www.qemu.org/license.html
+Index Page - 1 - https://www.qemu.org/download#source
+Index Page - 1 - https://www.qemu.org/download#linux
+Index Page - 1 - https://www.qemu.org/download#macos
+Index Page - 1 - https://www.qemu.org/download#windows
+Index Page - 1 - https://www.qemu.org/docs/master/about/deprecated.html
+Index Page - 1 - https://www.qemu.org/contribute/report-a-bug/
+Index Page - 1 - https://www.qemu.org/report-a-bug/
+Index Page - 1 - https://www.qemu.org/security-process/
+Index Page - 1 - https://www.qemu.org/2017/02/04/the-new-qemu-website-is-up/
+Index Page - 1 - https://www.qemu.org/submit-a-patch/
+Index Page - 1 - https://www.qemu.org/docs/master/
+Index Page - 1 - https://www.qemu.org/2023/08/22/qemu-8-1-0/
+Index Page - 1 - https://www.qemu.org/download/#source
+Index Page - 1 - https://www.qemu.org/blog/category/releases/index.html
+Index Page - 1 - https://www.qemu.org/blog/category/qemu-8-1/index.html
+Index Page - 1 - https://www.qemu.org/2023/04/20/qemu-8-0-0/
+Index Page - 1 - https://www.qemu.org/2023/03/24/python/
+Index Page - 1 - https://www.qemu.org/2023/03/08/kvm-forum-cfp/
+Index Page - 1 - https://www.qemu.org/blog/2023/08/
+Index Page - 1 - https://www.qemu.org/blog/2023/04/
+Index Page - 1 - https://www.qemu.org/blog/2023/03/
+Index Page - 1 - https://www.qemu.org/blog/2023/02/
+Index Page - 1 - https://www.qemu.org/blog/2022/12/
+Index Page - 1 - https://www.qemu.org/blog/2022/11/
+Index Page - 1 - https://www.qemu.org/blog/2022/08/
+Index Page - 1 - https://www.qemu.org/blog/2022/04/
+Index Page - 1 - https://www.qemu.org/blog/2022/03/
+Index Page - 1 - https://www.qemu.org/blog/2022/02/
+Index Page - 1 - https://www.qemu.org/blog/2021/12/
+Index Page - 1 - https://www.qemu.org/blog/2021/08/
+Index Page - 1 - https://www.qemu.org/blog/2021/04/
+Index Page - 1 - https://www.qemu.org/blog/2021/03/
+Index Page - 1 - https://www.qemu.org/blog/2021/02/
+Index Page - 1 - https://www.qemu.org/blog/2021/01/
+Index Page - 1 - https://www.qemu.org/blog/2020/12/
+Index Page - 1 - https://www.qemu.org/blog/2020/11/
+Index Page - 1 - https://www.qemu.org/blog/2020/09/
+Index Page - 1 - https://www.qemu.org/blog/2020/08/
+Index Page - 1 - https://www.qemu.org/blog/2020/07/
+Index Page - 1 - https://www.qemu.org/blog/2020/04/
+Index Page - 1 - https://www.qemu.org/blog/2020/02/
+Index Page - 1 - https://www.qemu.org/blog/2019/12/
+Index Page - 1 - https://www.qemu.org/blog/2019/11/
+Index Page - 1 - https://www.qemu.org/blog/2019/08/
+Index Page - 1 - https://www.qemu.org/blog/2019/05/
+Index Page - 1 - https://www.qemu.org/blog/2019/04/
+Index Page - 1 - https://www.qemu.org/blog/2019/02/
+Index Page - 1 - https://www.qemu.org/blog/2019/01/
+Index Page - 1 - https://www.qemu.org/blog/2018/12/
+Index Page - 1 - https://www.qemu.org/blog/2018/08/
+Index Page - 1 - https://www.qemu.org/blog/2018/06/
+Index Page - 1 - https://www.qemu.org/blog/2018/05/
+Index Page - 1 - https://www.qemu.org/blog/2018/04/
+Index Page - 1 - https://www.qemu.org/blog/2018/02/
+Index Page - 1 - https://www.qemu.org/blog/2018/01/
+Index Page - 1 - https://www.qemu.org/blog/2017/11/
+Index Page - 1 - https://www.qemu.org/blog/2017/10/
+Index Page - 1 - https://www.qemu.org/blog/2017/09/
+Index Page - 1 - https://www.qemu.org/blog/2017/08/
+Index Page - 1 - https://www.qemu.org/blog/2017/05/
+Index Page - 1 - https://www.qemu.org/blog/2017/03/
+Index Page - 1 - https://www.qemu.org/blog/2017/02/
+Index Page - 1 - https://www.qemu.org/license-gpl-2
+Index Page - 1 - https://www.qemu.org/license-cc-by-sa-4.0
+Index Page - 1 - https://www.qemu.org/license-cc-by-3.0
+Index Page - 2 - https://www.qemu.org/
+Index Page - 2 - https://www.qemu.org/download
+Index Page - 2 - https://www.qemu.org/support
+Index Page - 2 - https://www.qemu.org/contribute
+Index Page - 2 - https://www.qemu.org/documentation
+Index Page - 2 - https://www.qemu.org/blog
+Index Page - 2 - https://www.qemu.org/conservancy/
+Index Page - 2 - https://www.qemu.org/sponsors/
+Index Page - 2 - https://www.qemu.org/license.html
+Index Page - 2 - https://www.qemu.org/download#source
+Index Page - 2 - https://www.qemu.org/download#linux
+Index Page - 2 - https://www.qemu.org/download#macos
+Index Page - 2 - https://www.qemu.org/download#windows
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html
+Index Page - 2 - https://www.qemu.org/contribute/report-a-bug/
+Index Page - 2 - https://www.qemu.org/report-a-bug/
+Index Page - 2 - https://www.qemu.org/security-process/
+Index Page - 2 - https://www.qemu.org/2017/02/04/the-new-qemu-website-is-up/
+Index Page - 2 - https://www.qemu.org/submit-a-patch/
+Index Page - 2 - https://www.qemu.org/docs/master/
+Index Page - 2 - https://www.qemu.org/2023/08/22/qemu-8-1-0/
+Index Page - 2 - https://www.qemu.org/download/#source
+Index Page - 2 - https://www.qemu.org/blog/category/releases/index.html
+Index Page - 2 - https://www.qemu.org/blog/category/qemu-8-1/index.html
+Index Page - 2 - https://www.qemu.org/2023/04/20/qemu-8-0-0/
+Index Page - 2 - https://www.qemu.org/2023/03/24/python/
+Index Page - 2 - https://www.qemu.org/2023/03/08/kvm-forum-cfp/
+Index Page - 2 - https://www.qemu.org/blog/2023/08/
+Index Page - 2 - https://www.qemu.org/blog/2023/04/
+Index Page - 2 - https://www.qemu.org/blog/2023/03/
+Index Page - 2 - https://www.qemu.org/blog/2023/02/
+Index Page - 2 - https://www.qemu.org/blog/2022/12/
+Index Page - 2 - https://www.qemu.org/blog/2022/11/
+Index Page - 2 - https://www.qemu.org/blog/2022/08/
+Index Page - 2 - https://www.qemu.org/blog/2022/04/
+Index Page - 2 - https://www.qemu.org/blog/2022/03/
+Index Page - 2 - https://www.qemu.org/blog/2022/02/
+Index Page - 2 - https://www.qemu.org/blog/2021/12/
+Index Page - 2 - https://www.qemu.org/blog/2021/08/
+Index Page - 2 - https://www.qemu.org/blog/2021/04/
+Index Page - 2 - https://www.qemu.org/blog/2021/03/
+Index Page - 2 - https://www.qemu.org/blog/2021/02/
+Index Page - 2 - https://www.qemu.org/blog/2021/01/
+Index Page - 2 - https://www.qemu.org/blog/2020/12/
+Index Page - 2 - https://www.qemu.org/blog/2020/11/
+Index Page - 2 - https://www.qemu.org/blog/2020/09/
+Index Page - 2 - https://www.qemu.org/blog/2020/08/
+Index Page - 2 - https://www.qemu.org/blog/2020/07/
+Index Page - 2 - https://www.qemu.org/blog/2020/04/
+Index Page - 2 - https://www.qemu.org/blog/2020/02/
+Index Page - 2 - https://www.qemu.org/blog/2019/12/
+Index Page - 2 - https://www.qemu.org/blog/2019/11/
+Index Page - 2 - https://www.qemu.org/blog/2019/08/
+Index Page - 2 - https://www.qemu.org/blog/2019/05/
+Index Page - 2 - https://www.qemu.org/blog/2019/04/
+Index Page - 2 - https://www.qemu.org/blog/2019/02/
+Index Page - 2 - https://www.qemu.org/blog/2019/01/
+Index Page - 2 - https://www.qemu.org/blog/2018/12/
+Index Page - 2 - https://www.qemu.org/blog/2018/08/
+Index Page - 2 - https://www.qemu.org/blog/2018/06/
+Index Page - 2 - https://www.qemu.org/blog/2018/05/
+Index Page - 2 - https://www.qemu.org/blog/2018/04/
+Index Page - 2 - https://www.qemu.org/blog/2018/02/
+Index Page - 2 - https://www.qemu.org/blog/2018/01/
+Index Page - 2 - https://www.qemu.org/blog/2017/11/
+Index Page - 2 - https://www.qemu.org/blog/2017/10/
+Index Page - 2 - https://www.qemu.org/blog/2017/09/
+Index Page - 2 - https://www.qemu.org/blog/2017/08/
+Index Page - 2 - https://www.qemu.org/blog/2017/05/
+Index Page - 2 - https://www.qemu.org/blog/2017/03/
+Index Page - 2 - https://www.qemu.org/blog/2017/02/
+Index Page - 2 - https://www.qemu.org/license-gpl-2
+Index Page - 2 - https://www.qemu.org/license-cc-by-sa-4.0
+Index Page - 2 - https://www.qemu.org/license-cc-by-3.0
+Index Page - 2 - https://www.qemu.org/docs/master/index.html
+Index Page - 2 - https://www.qemu.org/docs/master/about/index.html
+Index Page - 2 - https://www.qemu.org/docs/master/about/build-platforms.html
+Index Page - 2 - https://www.qemu.org/docs/master/about/emulation.html
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#build-options
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#gprof-builds-since-8-0
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#system-emulator-command-line-arguments
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#qemu-audio-environment-variables-and-audio-help-since-4-0
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#creating-sound-card-devices-and-vnc-without-audiodev-property-since-4-2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#short-form-boolean-options-since-6-0
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#delay-option-for-socket-character-devices-since-6-0
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#smp-parameter-0-smp-configurations-since-6-2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#plugin-argument-passing-through-arg-string-since-6-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#no-hpet-since-8-0
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#no-acpi-since-8-0
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#async-teardown-since-8-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#chroot-since-8-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#singlestep-since-8-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#user-mode-emulator-command-line-arguments
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#id2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#qemu-machine-protocol-qmp-commands
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#blockdev-open-tray-blockdev-close-tray-argument-device-since-2-8
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#eject-argument-device-since-2-8
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#blockdev-change-medium-argument-device-since-2-8
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#block-set-io-throttle-argument-device-since-2-8
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#blockdev-add-empty-string-argument-backing-since-2-10
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#block-commit-arguments-base-and-top-since-3-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#nbd-server-add-and-nbd-server-remove-since-5-2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#query-qmp-schema-return-value-member-values-since-6-2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#drive-backup-since-6-2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#incorrectly-typed-device-add-arguments-since-6-2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#statusinfo-member-singlestep-since-8-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#qemu-machine-protocol-qmp-events
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#mem-unplug-error-since-6-2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#vcpu-trace-events-since-8-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#human-monitor-protocol-hmp-commands
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#id3
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#host-architectures
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#be-mips-since-7-2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#system-emulation-on-32-bit-x86-hosts-since-8-0
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#system-emulator-machines
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#arm-virt-machine-dtb-kaslr-seed-property-since-7-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#pc-i440fx-1-4-up-to-pc-i440fx-1-7-since-7-0
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#backend-options
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#using-non-persistent-backing-file-with-pmem-on-since-6-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#device-options
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#emulated-device-options
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#block-device-options
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#backwards-compatibility
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#runnability-guarantee-of-cpu-models-since-4-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#qemu-guest-agent
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#blacklist-command-line-option-since-7-2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#blacklist-config-file-option-since-7-2
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#migration
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#skipped-migrationstats-field-since-8-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/removed-features.html
+Index Page - 2 - https://www.qemu.org/docs/master/about/license.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/index.html
+Index Page - 2 - https://www.qemu.org/docs/master/user/index.html
+Index Page - 2 - https://www.qemu.org/docs/master/tools/index.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/index.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/index.html
+Index Page - 2 - https://www.qemu.org/docs/master/devel/index.html
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#deprecated-features
+Index Page - 2 - https://www.qemu.org/docs/master/interop/live-block-operations.html
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#device-virtio-blk-scsi-on-off-since-5-0
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#device-nvme-ns-eui64-default-on-off-since-7-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#device-nvme-use-intel-id-on-off-since-7-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#device-cxl-type3-memdev-xxxx-since-8-0
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#fsdev-proxy-and-virtfs-proxy-since-8-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#backing-since-2-12
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#rbd-keyvalue-pair-encoded-filenames-since-3-1
+Index Page - 2 - https://www.qemu.org/docs/master/about/deprecated.html#iscsi-password-xxx-since-8-0
+Index Page - 2 - https://www.qemu.org/contribute/submit-a-patch
+Index Page - 2 - https://www.qemu.org/contribute/security-process
+Index Page - 2 - https://www.qemu.org/blog/category/contributing/index.html
+Index Page - 2 - https://www.qemu.org/blog/category/web-site/index.html
+Index Page - 2 - https://www.qemu.org/docs/master/#welcome-to-qemu-s-documentation
+Index Page - 2 - https://www.qemu.org/docs/master/system/introduction.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/invocation.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/device-emulation.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/keys.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/mux-chardev.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/monitor.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/images.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/virtio-net-failover.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/linuxboot.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/generic-loader.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/guest-loader.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/barrier.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/vnc-security.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/tls.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/secrets.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/authz.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/gdb.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/gdb.html#relocating-code
+Index Page - 2 - https://www.qemu.org/docs/master/system/replay.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/managed-startup.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/bootindex.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/cpu-hotplug.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/pr-manager.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/targets.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/security.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/multi-process.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/confidential-guest-support.html
+Index Page - 2 - https://www.qemu.org/docs/master/system/vm-templating.html
+Index Page - 2 - https://www.qemu.org/docs/master/user/main.html
+Index Page - 2 - https://www.qemu.org/docs/master/tools/qemu-img.html
+Index Page - 2 - https://www.qemu.org/docs/master/tools/qemu-storage-daemon.html
+Index Page - 2 - https://www.qemu.org/docs/master/tools/qemu-nbd.html
+Index Page - 2 - https://www.qemu.org/docs/master/tools/qemu-pr-helper.html
+Index Page - 2 - https://www.qemu.org/docs/master/tools/qemu-trace-stap.html
+Index Page - 2 - https://www.qemu.org/docs/master/tools/virtfs-proxy-helper.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/barrier.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/bitmaps.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/dbus.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/dbus-vmstate.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/dbus-display.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/pr-helper.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/qmp-spec.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/qemu-ga.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/qemu-ga-ref.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/qemu-qmp-ref.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/qemu-storage-daemon-qmp-ref.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/vhost-user.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/vhost-user-gpu.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/vhost-vdpa.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/virtio-balloon-stats.html
+Index Page - 2 - https://www.qemu.org/docs/master/interop/vnc-ledstate-pseudo-encoding.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/pci-ids.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/pci-serial.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/pci-testdev.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/ppc-xive.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/ppc-spapr-xive.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/ppc-spapr-numa.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/ppc-spapr-numa.html#how-the-pseries-linux-guest-calculates-numa-distances
+Index Page - 2 - https://www.qemu.org/docs/master/specs/ppc-spapr-numa.html#pseries-numa-mechanics
+Index Page - 2 - https://www.qemu.org/docs/master/specs/ppc-spapr-numa.html#legacy-5-1-and-older-pseries-numa-mechanics
+Index Page - 2 - https://www.qemu.org/docs/master/specs/acpi_hw_reduced_hotplug.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/tpm.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/acpi_hest_ghes.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/acpi_cpu_hotplug.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/acpi_mem_hotplug.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/acpi_pci_hotplug.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/acpi_nvdimm.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/acpi_erst.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/sev-guest-firmware.html
+Index Page - 2 - https://www.qemu.org/docs/master/specs/fw_cfg.html
+Index Page - 2 - https://www.qemu.org/docs/master/devel/index-process.html
+Index Page - 2 - https://www.qemu.org/docs/master/devel/index-build.html
+Index Page - 2 - https://www.qemu.org/docs/master/devel/index-api.html
+Index Page - 2 - https://www.qemu.org/docs/master/devel/index-internals.html
+Index Page - 2 - https://www.qemu.org/docs/master/devel/index-tcg.html
+Index Page - 2 - https://www.qemu.org/download/#linux
+Index Page - 2 - https://www.qemu.org/download/#macos
+Index Page - 2 - https://www.qemu.org/download/#windows
+Index Page - 2 - https://www.qemu.org/2017/09/01/qemu-2-10-0/
+Index Page - 2 - https://www.qemu.org/2017/10/04/qemu-2-10-1/
+Index Page - 2 - https://www.qemu.org/2018/02/14/qemu-2-11-1-and-spectre-update/
+Index Page - 2 - https://www.qemu.org/2018/01/04/spectre/
+Index Page - 2 - https://www.qemu.org/2018/04/25/qemu-2-12-0/
+Index Page - 2 - https://www.qemu.org/2018/08/15/qemu-3-0-0/
+Index Page - 2 - https://www.qemu.org/2018/12/12/qemu-3-1-0/
+Index Page - 2 - https://www.qemu.org/2019/04/24/qemu-4-0-0/
+Index Page - 2 - https://www.qemu.org/2019/08/16/qemu-4-1-0/
+Index Page - 2 - https://www.qemu.org/2019/12/13/qemu-4-2-0/
+Index Page - 2 - https://www.qemu.org/2020/04/29/qemu-5-0-0/
+Index Page - 2 - https://www.qemu.org/2020/08/11/qemu-5-1-0/
+Index Page - 2 - https://www.qemu.org/2020/12/08/qemu-5-2-0/
+Index Page - 2 - https://www.qemu.org/2021/04/30/qemu-6-0-0/
+Index Page - 2 - https://www.qemu.org/2021/08/24/qemu-6-1-0/
+Index Page - 2 - https://www.qemu.org/2021/12/14/qemu-6-2-0/
+Index Page - 2 - https://www.qemu.org/2022/04/19/qemu-7-0-0/
+Index Page - 2 - https://www.qemu.org/2022/08/30/qemu-7-1-0/
+Index Page - 2 - https://www.qemu.org/2022/12/14/qemu-7-2-0/
+Index Page - 2 - https://www.qemu.org/blog/category/qemu-8-0/index.html
+Index Page - 2 - https://www.qemu.org/blog/category/build/index.html
+Index Page - 2 - https://www.qemu.org/blog/category/python/index.html
+Index Page - 2 - https://www.qemu.org/blog/category/developers/index.html
+Index Page - 2 - https://www.qemu.org/blog/category/presentations/index.html
+Index Page - 2 - https://www.qemu.org/blog/category/conferences/index.html
+Index Page - 2 - https://www.qemu.org/2023/02/23/gsoc-outreachy-2023/
+Index Page - 2 - https://www.qemu.org/2022/11/17/zoned-emulation/
+Index Page - 2 - https://www.qemu.org/2022/03/07/gsoc-2022/
+Index Page - 2 - https://www.qemu.org/2022/02/15/outreach-2022/
+Index Page - 2 - https://www.qemu.org/2021/08/19/tcg-cache-modelling-plugin/
+Index Page - 2 - https://www.qemu.org/2021/08/22/fuse-blkexport/
+Index Page - 2 - https://www.qemu.org/2021/03/10/gsoc-and-outreachy-2021-timelines/
+Index Page - 2 - https://www.qemu.org/2021/02/17/gsoc-and-outreachy-2021/
+Index Page - 2 - https://www.qemu.org/2021/01/19/virtio-blk-scsi-configuration/
+Index Page - 2 - https://www.qemu.org/2020/09/14/qemu-storage-overview/
+Index Page - 2 - https://www.qemu.org/2020/11/04/osv-virtio-fs/
+Index Page - 2 - https://www.qemu.org/2020/11/26/qemu-advent-announce/
+Index Page - 2 - https://www.qemu.org/2020/07/03/anatomy-of-a-boot/
+Index Page - 2 - https://www.qemu.org/2020/02/06/outreachy-internships-2020/
+Index Page - 2 - https://www.qemu.org/2020/02/26/google-summer-of-code-internships-2020/
+Index Page - 2 - https://www.qemu.org/2019/11/07/device-fuzzing/
+Index Page - 2 - https://www.qemu.org/2019/11/15/micro-optimizing-kvm-vmexits/
+Index Page - 2 - https://www.qemu.org/2019/11/21/kvm-forum/
+Index Page - 2 - https://www.qemu.org/2019/05/22/microbit/
+Index Page - 2 - https://www.qemu.org/2019/02/26/new-internships-2019/
+Index Page - 2 - https://www.qemu.org/2019/01/23/internships-wrapup/
+Index Page - 2 - https://www.qemu.org/2018/06/21/tcg-testing/
+Index Page - 2 - https://www.qemu.org/2018/05/31/nic-parameter/
+Index Page - 2 - https://www.qemu.org/2018/02/06/devconf-fosdem/
+Index Page - 2 - https://www.qemu.org/2018/02/09/understanding-qemu-devices/
+Index Page - 2 - https://www.qemu.org/2017/11/22/haxm-usage-windows/
+Index Page - 2 - https://www.qemu.org/2017/08/10/deprecation/
+Index Page - 2 - https://www.qemu.org/2017/05/16/devconf-presentations/
+Index Page - 2 - https://www.qemu.org/2017/03/19/qemu-in-the-blogs-february-2017/
+Index Page - 2 - https://www.qemu.org/2017/02/10/fosdem-presentations/
